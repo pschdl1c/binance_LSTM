@@ -1,0 +1,14 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+matplotlib=3.7.0=py39hcbf5309_0
+matplotlib-base=3.7.0=py39hf11a4ad_0
+matplotlib-inline=0.1.6=py39haa95532_0
+numpy=1.23.5=py39h3b20f71_0
+numpy-base=1.23.5=py39h4da318b_0
+pandas=1.5.3=py39hf11a4ad_0
+tqdm=4.65.0=pyhd8ed1ab_1
+tensorflow=2.6.0=gpu_py39he88c5ba_0
+tensorflow-base=2.6.0=gpu_py39hb3da07e_0
+tensorflow-estimator=2.6.0=pyh7b7c402_0
+tensorflow-gpu=2.6.0=h17022bd_0
